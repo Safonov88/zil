@@ -27,3 +27,8 @@ body {
 .txt-footer {
   font-size: 50px;
 }
+
+.txt-title {
+  padding-top: 10px;
+  height: 50%;
+}
