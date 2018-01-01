@@ -1,0 +1,15 @@
+.about {
+  display:inline-block;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 70px;
+  background-color: #ce7840;
+
+}
+
+.img-about{
+  max-width: 30%;
+  float: left;
+}
+
+

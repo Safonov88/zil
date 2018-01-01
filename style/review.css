@@ -1,0 +1,27 @@
+.review {
+  margin-left: 10%;
+  margin-right: 10%;
+  background: #e0d8d8;
+}
+
+.row {
+  padding: 10px;
+  column-count: 2;
+}
+
+.img-review-r {
+  float: right;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.img-review-l {
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 5px 5px 5px 5px;
+}

@@ -1,0 +1,18 @@
+.header {
+  position: fixed;
+  width: 100%;
+  opacity: 0.90;
+  background: #fff;
+  height: 70px;
+  z-index: 2;
+}
+
+li {
+  display: inline;
+  margin-right: 5px;
+  float: right;
+}
+
+.nameplate {
+  float: left;
+}
