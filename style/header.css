@@ -1,6 +1,7 @@
 .header {
   position: fixed;
-  width: 100%;
+  left: 10%;
+  right: 10%;
   opacity: 0.90;
   background: #fff;
   height: 70px;
