@@ -14,7 +14,6 @@ body {
 
 .txt-about {
   font-size: xx-large;
-  padding: 15% 10% 10% 30%;
 }
 
 .txt-center {
@@ -24,15 +23,20 @@ body {
 .txt-review {
   display: inline-block;
 }
+
 .txt-footer {
   font-size: 50px;
 }
 
 .txt-title {
-  padding-top: 10px;
-  height: 50%;
+  padding-top: 30px;
+  float: left;
 }
 
 .txt-menu {
   color: #42433f;
+}
+
+.txt-h1 {
+  vertical-align: sub;
 }

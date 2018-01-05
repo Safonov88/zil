@@ -15,6 +15,7 @@
   height: 100px;
   border-radius: 50%;
   overflow: hidden;
+  padding: 5px 5px 5px 5px;
 }
 
 .img-review-l {
