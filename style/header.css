@@ -10,6 +10,19 @@
   vertical-align:bottom;
 }
 
+@media (max-width: 1220px) {
+  .nameplate {
+    display: none;
+  }
+}
+
+@media (max-width: 875px) {
+  .header {
+    left: 0px;
+    right: 0px;
+  }
+}
+
 li {
   display: inline-block;
   margin-right: 5px;

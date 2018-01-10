@@ -4,6 +4,12 @@
   background: #e0d8d8;
 }
 
+@media (max-width: 875px) {
+  .review {
+    margin: 0px;
+  }
+}
+
 .row {
 
   padding: 10px;

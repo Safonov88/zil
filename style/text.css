@@ -12,6 +12,13 @@ body {
   background-color: #42433e;
 }
 
+@media (max-width: 875px) {
+  .txt-intro {
+    top: 200px;
+    font-size: medium;
+    }
+}
+
 .txt-about {
   font-size: xx-large;
 }
@@ -31,6 +38,25 @@ body {
 .txt-title {
   line-height: 70px;
   padding-left: 284px;
+}
+
+@media (max-width: 1220px) {
+  .txt-title {
+    padding-left: 0px;
+  }
+  .txt-about {
+  font-size: medium;
+}
+
+@media (max-width: 875px) {
+  .txt-title {
+    font-size: xx-small;
+      }
+  .txt-menu {
+    font-size: xx-small;
+  }
+  .txt-about {
+  font-size: xx-small;
 }
 
 .txt-menu {

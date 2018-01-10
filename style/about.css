@@ -11,3 +11,10 @@
   float: left;
   margin: 10px;
 }
+
+@media (max-width: 875px) {
+  .about {
+    margin: 0px;
+    margin-top: 70px;
+  }
+}
