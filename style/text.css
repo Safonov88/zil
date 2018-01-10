@@ -29,14 +29,12 @@ body {
 }
 
 .txt-title {
-  padding-top: 30px;
-  float: left;
+  line-height: 70px;
+  padding-left: 284px;
 }
 
 .txt-menu {
   color: #42433f;
 }
 
-.txt-h1 {
-  vertical-align: sub;
-}
+

@@ -5,12 +5,12 @@
 }
 
 .row {
+
   padding: 10px;
   column-count: 2;
 }
 
 .img-review-r {
-  float: right;
   width: 150px;
   height: 100px;
   border-radius: 50%;
@@ -19,7 +19,6 @@
 }
 
 .img-review-l {
-  float: left;
   width: 150px;
   height: 100px;
   border-radius: 50%;

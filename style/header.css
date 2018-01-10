@@ -11,15 +11,22 @@
 }
 
 li {
-  display: inline;
+  display: inline-block;
   margin-right: 5px;
-  float: right;
+  height: 100%;
 }
 
 .nameplate {
   float: left;
+  height: 70px;
+  width: 264px;
 }
 
 .menu {
-  margin-top: 45px;
+  float: right;
+  line-height: 70px;
+
+}
+
+.title-menu {
 }
