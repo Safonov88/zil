@@ -1,5 +1,6 @@
 
 .btn {
+  display: inline-block;
   font-weight: 700;
   color: white;
   text-decoration: none;
@@ -9,6 +10,7 @@
   box-shadow: 0 -3px rgb(53,167,110) inset;
   transition: 0.2s;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 .btn:hover {
   background: rgb(53, 167, 110);

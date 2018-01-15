@@ -27,10 +27,6 @@ body {
   text-align: center;
 }
 
-.txt-review {
-  display: inline-block;
-}
-
 .txt-footer {
   font-size: 50px;
 }
@@ -55,9 +51,6 @@ body {
   .txt-menu {
     font-size: xx-small;
   }
-  /*.txt-about {
-  font-size: xx-small;
-}*/
 
 .txt-menu {
   color: #42433f;
