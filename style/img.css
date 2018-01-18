@@ -8,6 +8,11 @@
   margin-right: 10%;
 }
 
+.img {
+  height: 135px;
+  padding: 20px;
+}
+
 @media (max-width: 875px) {
   .img-background {
     margin: 0px;

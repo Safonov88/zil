@@ -3,11 +3,11 @@
   margin-right: 10%;
   margin-top: 70px;
   background-color: #e0d8d8;
+  padding: 30px;
 }
 
 .img-about{
   padding: 10px;
-
 }
 
 @media (max-width: 875px) {
